@@ -36,6 +36,9 @@ export const IndexPage: FC = () => {
           <Link to="/theme-params">
             <Cell subtitle="Telegram application palette information">Theme Parameters</Cell>
           </Link>
+          <a href="https://millionlive-theaterdays.idolmaster-official.jp/" target="_blank" rel="noopener noreferrer">
+            <Cell subtitle="MILLION LIVE">MILLION LIVE</Cell>
+          </a>
         </Section>
       </List>
     </Page>
