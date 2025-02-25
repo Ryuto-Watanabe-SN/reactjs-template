@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://Ryuto-Watanabe-SN.github.io/reactjs-template",
+  "homepage": "https://storage.googleapis.com/str-scn-kabuki-dev01",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
